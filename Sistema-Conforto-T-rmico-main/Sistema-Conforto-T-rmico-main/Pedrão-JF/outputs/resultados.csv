@@ -1,0 +1,13 @@
+temperatura,umidade,classificacao
+2,50,Muito Frio
+36,40,Muito Quente
+18,40,Precisa de Sol para Conforto
+22,45,Confortável
+28,50,Precisa de Vento para Conforto
+12,35,Precisa de Sol para Conforto
+30,75,Precisa de Vento para Conforto
+15,85,Muito Úmido
+15,25,Muito Seco
+8,50,Indefinido
+32,60,Precisa de Vento para Conforto
+25,82,Muito Úmido

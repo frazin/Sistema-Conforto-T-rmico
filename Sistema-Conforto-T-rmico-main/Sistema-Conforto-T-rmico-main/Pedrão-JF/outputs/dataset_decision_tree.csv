@@ -1,0 +1,301 @@
+temperatura,umidade,classificacao
+0,20,Muito Frio
+0,25,Muito Frio
+0,30,Muito Frio
+0,35,Muito Frio
+0,40,Muito Frio
+0,45,Muito Frio
+0,50,Muito Frio
+0,55,Muito Frio
+0,60,Muito Frio
+0,65,Muito Frio
+0,70,Muito Frio
+0,75,Muito Frio
+0,80,Muito Frio
+0,85,Muito Frio
+0,90,Muito Frio
+2,20,Muito Frio
+2,25,Muito Frio
+2,30,Muito Frio
+2,35,Muito Frio
+2,40,Muito Frio
+2,45,Muito Frio
+2,50,Muito Frio
+2,55,Muito Frio
+2,60,Muito Frio
+2,65,Muito Frio
+2,70,Muito Frio
+2,75,Muito Frio
+2,80,Muito Frio
+2,85,Muito Frio
+2,90,Muito Frio
+4,20,Muito Frio
+4,25,Muito Frio
+4,30,Muito Frio
+4,35,Muito Frio
+4,40,Muito Frio
+4,45,Muito Frio
+4,50,Muito Frio
+4,55,Muito Frio
+4,60,Muito Frio
+4,65,Muito Frio
+4,70,Muito Frio
+4,75,Muito Frio
+4,80,Muito Frio
+4,85,Muito Frio
+4,90,Muito Frio
+6,20,Muito Seco
+6,25,Muito Seco
+6,30,Muito Seco
+6,35,Indefinido
+6,40,Indefinido
+6,45,Indefinido
+6,50,Indefinido
+6,55,Indefinido
+6,60,Indefinido
+6,65,Indefinido
+6,70,Indefinido
+6,75,Indefinido
+6,80,Muito Úmido
+6,85,Muito Úmido
+6,90,Muito Úmido
+8,20,Muito Seco
+8,25,Muito Seco
+8,30,Muito Seco
+8,35,Indefinido
+8,40,Indefinido
+8,45,Indefinido
+8,50,Indefinido
+8,55,Indefinido
+8,60,Indefinido
+8,65,Indefinido
+8,70,Indefinido
+8,75,Indefinido
+8,80,Muito Úmido
+8,85,Muito Úmido
+8,90,Muito Úmido
+10,20,Muito Seco
+10,25,Muito Seco
+10,30,Muito Seco
+10,35,Precisa de Sol para Conforto
+10,40,Precisa de Sol para Conforto
+10,45,Precisa de Sol para Conforto
+10,50,Precisa de Sol para Conforto
+10,55,Precisa de Sol para Conforto
+10,60,Precisa de Sol para Conforto
+10,65,Precisa de Sol para Conforto
+10,70,Precisa de Sol para Conforto
+10,75,Precisa de Sol para Conforto
+10,80,Muito Úmido
+10,85,Muito Úmido
+10,90,Muito Úmido
+12,20,Muito Seco
+12,25,Muito Seco
+12,30,Muito Seco
+12,35,Precisa de Sol para Conforto
+12,40,Precisa de Sol para Conforto
+12,45,Precisa de Sol para Conforto
+12,50,Precisa de Sol para Conforto
+12,55,Precisa de Sol para Conforto
+12,60,Precisa de Sol para Conforto
+12,65,Precisa de Sol para Conforto
+12,70,Precisa de Sol para Conforto
+12,75,Precisa de Sol para Conforto
+12,80,Muito Úmido
+12,85,Muito Úmido
+12,90,Muito Úmido
+14,20,Muito Seco
+14,25,Muito Seco
+14,30,Muito Seco
+14,35,Precisa de Sol para Conforto
+14,40,Precisa de Sol para Conforto
+14,45,Precisa de Sol para Conforto
+14,50,Precisa de Sol para Conforto
+14,55,Precisa de Sol para Conforto
+14,60,Precisa de Sol para Conforto
+14,65,Precisa de Sol para Conforto
+14,70,Precisa de Sol para Conforto
+14,75,Precisa de Sol para Conforto
+14,80,Muito Úmido
+14,85,Muito Úmido
+14,90,Muito Úmido
+16,20,Muito Seco
+16,25,Muito Seco
+16,30,Muito Seco
+16,35,Precisa de Sol para Conforto
+16,40,Precisa de Sol para Conforto
+16,45,Precisa de Sol para Conforto
+16,50,Precisa de Sol para Conforto
+16,55,Precisa de Sol para Conforto
+16,60,Precisa de Sol para Conforto
+16,65,Precisa de Sol para Conforto
+16,70,Precisa de Sol para Conforto
+16,75,Precisa de Sol para Conforto
+16,80,Muito Úmido
+16,85,Muito Úmido
+16,90,Muito Úmido
+18,20,Muito Seco
+18,25,Muito Seco
+18,30,Muito Seco
+18,35,Precisa de Sol para Conforto
+18,40,Precisa de Sol para Conforto
+18,45,Precisa de Sol para Conforto
+18,50,Precisa de Sol para Conforto
+18,55,Precisa de Sol para Conforto
+18,60,Precisa de Sol para Conforto
+18,65,Precisa de Sol para Conforto
+18,70,Precisa de Sol para Conforto
+18,75,Precisa de Sol para Conforto
+18,80,Muito Úmido
+18,85,Muito Úmido
+18,90,Muito Úmido
+20,20,Muito Seco
+20,25,Muito Seco
+20,30,Muito Seco
+20,35,Confortável
+20,40,Confortável
+20,45,Confortável
+20,50,Confortável
+20,55,Confortável
+20,60,Confortável
+20,65,Confortável
+20,70,Confortável
+20,75,Confortável
+20,80,Muito Úmido
+20,85,Muito Úmido
+20,90,Muito Úmido
+22,20,Muito Seco
+22,25,Muito Seco
+22,30,Muito Seco
+22,35,Confortável
+22,40,Confortável
+22,45,Confortável
+22,50,Confortável
+22,55,Confortável
+22,60,Confortável
+22,65,Confortável
+22,70,Confortável
+22,75,Confortável
+22,80,Muito Úmido
+22,85,Muito Úmido
+22,90,Muito Úmido
+24,20,Muito Seco
+24,25,Muito Seco
+24,30,Muito Seco
+24,35,Confortável
+24,40,Confortável
+24,45,Confortável
+24,50,Confortável
+24,55,Confortável
+24,60,Confortável
+24,65,Confortável
+24,70,Confortável
+24,75,Confortável
+24,80,Muito Úmido
+24,85,Muito Úmido
+24,90,Muito Úmido
+26,20,Muito Seco
+26,25,Muito Seco
+26,30,Muito Seco
+26,35,Precisa de Vento para Conforto
+26,40,Precisa de Vento para Conforto
+26,45,Precisa de Vento para Conforto
+26,50,Precisa de Vento para Conforto
+26,55,Precisa de Vento para Conforto
+26,60,Precisa de Vento para Conforto
+26,65,Precisa de Vento para Conforto
+26,70,Precisa de Vento para Conforto
+26,75,Precisa de Vento para Conforto
+26,80,Muito Úmido
+26,85,Muito Úmido
+26,90,Muito Úmido
+28,20,Muito Seco
+28,25,Muito Seco
+28,30,Muito Seco
+28,35,Precisa de Vento para Conforto
+28,40,Precisa de Vento para Conforto
+28,45,Precisa de Vento para Conforto
+28,50,Precisa de Vento para Conforto
+28,55,Precisa de Vento para Conforto
+28,60,Precisa de Vento para Conforto
+28,65,Precisa de Vento para Conforto
+28,70,Precisa de Vento para Conforto
+28,75,Precisa de Vento para Conforto
+28,80,Muito Úmido
+28,85,Muito Úmido
+28,90,Muito Úmido
+30,20,Muito Seco
+30,25,Muito Seco
+30,30,Muito Seco
+30,35,Precisa de Vento para Conforto
+30,40,Precisa de Vento para Conforto
+30,45,Precisa de Vento para Conforto
+30,50,Precisa de Vento para Conforto
+30,55,Precisa de Vento para Conforto
+30,60,Precisa de Vento para Conforto
+30,65,Precisa de Vento para Conforto
+30,70,Precisa de Vento para Conforto
+30,75,Precisa de Vento para Conforto
+30,80,Muito Úmido
+30,85,Muito Úmido
+30,90,Muito Úmido
+32,20,Muito Seco
+32,25,Muito Seco
+32,30,Muito Seco
+32,35,Precisa de Vento para Conforto
+32,40,Precisa de Vento para Conforto
+32,45,Precisa de Vento para Conforto
+32,50,Precisa de Vento para Conforto
+32,55,Precisa de Vento para Conforto
+32,60,Precisa de Vento para Conforto
+32,65,Precisa de Vento para Conforto
+32,70,Precisa de Vento para Conforto
+32,75,Precisa de Vento para Conforto
+32,80,Muito Úmido
+32,85,Muito Úmido
+32,90,Muito Úmido
+34,20,Muito Seco
+34,25,Muito Seco
+34,30,Muito Seco
+34,35,Precisa de Vento para Conforto
+34,40,Precisa de Vento para Conforto
+34,45,Precisa de Vento para Conforto
+34,50,Precisa de Vento para Conforto
+34,55,Precisa de Vento para Conforto
+34,60,Precisa de Vento para Conforto
+34,65,Precisa de Vento para Conforto
+34,70,Precisa de Vento para Conforto
+34,75,Precisa de Vento para Conforto
+34,80,Muito Úmido
+34,85,Muito Úmido
+34,90,Muito Úmido
+36,20,Muito Quente
+36,25,Muito Quente
+36,30,Muito Quente
+36,35,Muito Quente
+36,40,Muito Quente
+36,45,Muito Quente
+36,50,Muito Quente
+36,55,Muito Quente
+36,60,Muito Quente
+36,65,Muito Quente
+36,70,Muito Quente
+36,75,Muito Quente
+36,80,Muito Quente
+36,85,Muito Quente
+36,90,Muito Quente
+38,20,Muito Quente
+38,25,Muito Quente
+38,30,Muito Quente
+38,35,Muito Quente
+38,40,Muito Quente
+38,45,Muito Quente
+38,50,Muito Quente
+38,55,Muito Quente
+38,60,Muito Quente
+38,65,Muito Quente
+38,70,Muito Quente
+38,75,Muito Quente
+38,80,Muito Quente
+38,85,Muito Quente
+38,90,Muito Quente
